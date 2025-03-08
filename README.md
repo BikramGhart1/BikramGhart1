@@ -9,7 +9,7 @@
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BikramGhart1&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BikramGhart1&layout=compact)
+
 
 <!---
 BikramGhart1/BikramGhart1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
