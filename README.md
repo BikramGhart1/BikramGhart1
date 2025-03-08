@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BikramGhart1
 - 👀 I’m interested in learning and problem solving
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, Instagram: _bikramagar
 - 😄 Pronouns: he/him
